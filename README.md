@@ -30,7 +30,7 @@ and proceed to turn on the server.
 
 ## Video And Images
 
-![Photo](./Assets/Capture.PNG)
+![image](./Assets/Capture.PNG)
 
 **Video**
 
